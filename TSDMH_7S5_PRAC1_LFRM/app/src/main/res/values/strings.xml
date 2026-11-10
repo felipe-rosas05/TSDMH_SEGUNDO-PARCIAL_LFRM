@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TSDMH_7S5_p2p1_LFRM</string>
+    <string name="p1titulo">Manejo de componentes views</string>
+    <string name="p1btn_1">Primer Boton</string>
+    <string name="p1btn_2">Segundo Boton</string>
+    <string-array name="Estados">
+        <item>Chihuahua</item>
+        <item>Estado de Mexico</item>
+        <item>Ciudad de Mexico</item>
+        <item>Puebla</item>
+        <item>Oaxaca</item>
+    </string-array>
+</resources>
